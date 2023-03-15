@@ -1,0 +1,2 @@
+This is the textures folder to display the node's tile.
+But if you want, add a texture here.
